@@ -1,6 +1,7 @@
 Binaries
 DerivedDataCache
 Intermediate
+Platforms
 Saved
 .vscode
 .vs
@@ -10,5 +11,6 @@ Saved
 *.sdf
 *.sln
 *.suo
+*.vsconfig
 *.xcodeproj
 *.xcworkspace
